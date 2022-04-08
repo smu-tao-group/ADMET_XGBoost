@@ -22,6 +22,7 @@ conda activate tdc
     <thead>
         <tr>
             <th>Tasks</th>
+            <th>Evaluation</th>
             <th>Performance</th>
             <th>Rank</th>
         </tr>
@@ -32,31 +33,37 @@ conda activate tdc
         </tr>
         <tr>
             <td>Caco2</td>
+            <td>MAE</td>
             <td>0.291 &#177; 0.015</td>
             <td>1st</td>
         </tr>
         <tr>
             <td>HIA</td>
+            <td>AUROC</td>
             <td>0.988 &#177; 0.002</td>
             <td>1st</td>
         </tr>
         <tr>
             <td>Pgp</td>
+            <td>AUROC</td>
             <td>0.911 &#177; 0.001</td>
             <td>5th</td>
         </tr>
         <tr>
             <td>Bioav</td>
+            <td>AUROC</td>
             <td>0.7 &#177; 0.01</td>
             <td>2nd</td>
         </tr>
         <tr>
             <td>Lipo</td>
+            <td>MAE</td>
             <td>0.536 &#177; 0.002</td>
             <td>2nd</td>
         </tr>
         <tr>
             <td>AqSol</td>
+            <td>MAE</td>
             <td>0.734 &#177; 0.006</td>
             <td>1st</td>
         </tr>
@@ -65,16 +72,19 @@ conda activate tdc
         </tr>
         <tr>
             <td>BBB</td>
+            <td>AUROC</td>
             <td>0.907 &#177; 0.002</td>
             <td>1st</td>
         </tr>
         <tr>
             <td>PPBR</td>
+            <td>MAE</td>
             <td>8.252 &#177; 0.19</td>
             <td>1st</td>
         </tr>
         <tr>
             <td>VDss</td>
+            <td>Spearman</td>
             <td>0.627 &#177; 0.009</td>
             <td>1st</td>
         </tr>
@@ -83,31 +93,37 @@ conda activate tdc
         </tr>
         <tr>
             <td>CYP2C9 Inhibition</td>
+            <td>AUPRC</td>
             <td>0.769 &#177; 0.0</td>
             <td>3rd</td>
         </tr>
         <tr>
             <td>CYP2D6 Inhibition</td>
+            <td>AUPRC</td>
             <td>0.717 &#177; 0.001</td>
             <td>3rd</td>
         </tr>
         <tr>
             <td>CYP3A4 Inhibition</td>
+            <td>AUPRC</td>
             <td>0.872 &#177; 0.005</td>
             <td>3rd</td>
         </tr>
         <tr>
             <td>CYP2C9 Substrate</td>
+            <td>AUPRC</td>
             <td>0.383 &#177; 0.012</td>
             <td>3rd</td>
         </tr>
         <tr>
             <td>CYP2D6 Substrate</td>
+            <td>AUPRC</td>
             <td>0.636 &#177; 0.012</td>
             <td>5th</td>
         </tr>
         <tr>
             <td>CYP3A4 Substrate</td>
+            <td>AUPRC</td>
             <td>0.677 &#177; 0.007</td>
             <td>1st</td>
         </tr>
@@ -116,16 +132,19 @@ conda activate tdc
         </tr>
         <tr>
             <td>Half Life</td>
+            <td>Spearman</td>
             <td>0.383 &#177; 0.058</td>
             <td>2nd</td>
         </tr>
         <tr>
             <td>CL-Hepa</td>
+            <td>Spearman</td>
             <td>0.395 &#177; 0.016</td>
             <td>4th</td>
         </tr>
         <tr>
             <td>CL-Micro</td>
+            <td>Spearman</td>
             <td>0.588 &#177; 0.003</td>
             <td>2nd</td>
         </tr>
@@ -134,21 +153,25 @@ conda activate tdc
         </tr>
         <tr>
             <td>LD50</td>
+            <td>MAE</td>
             <td>0.601 &#177; 0.004</td>
             <td>1st</td>
         </tr>
         <tr>
             <td>hERG</td>
+            <td>AUROC</td>
             <td>0.779 &#177; 0.01</td>
             <td>4th</td>
         </tr>
         <tr>
             <td>Ames</td>
+            <td>AUROC</td>
             <td>0.859 &#177; 0.0</td>
             <td>1st</td>
         </tr>
         <tr>
             <td>DILI</td>
+            <td>AUROC</td>
             <td>0.925 &#177; 0.012</td>
             <td>1st</td>
         </tr>
