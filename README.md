@@ -14,7 +14,7 @@ conda activate tdc
 
 ## Usage
 
-1. Featurization: run `python featurize.py TASK_NAME` to convert SMILES to features. This step is time consuming and we provide the processed data that can be downloaded here. 
+1. Featurization: run `python featurize.py TASK_NAME` to convert SMILES to features. This step is time consuming and we provide the processed data that can be downloaded [here](https://drive.google.com/file/d/1un1kO5ZoFQ6G7WCbL0SffTiYiBon06bT/view?usp=sharing). 
 2. Modeling: run `python model.py TASK_NAME` for model training and prediction. 
 
 ## Results
