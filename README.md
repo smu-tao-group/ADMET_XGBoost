@@ -53,7 +53,7 @@ conda activate tdc
         <tr>
             <td>Bioav</td>
             <td>AUROC</td>
-            <td>0.7 &#177; 0.01</td>
+            <td>0.700 &#177; 0.010</td>
             <td>2nd</td>
         </tr>
         <tr>
@@ -80,7 +80,7 @@ conda activate tdc
         <tr>
             <td>PPBR</td>
             <td>MAE</td>
-            <td>8.252 &#177; 0.19</td>
+            <td>8.252 &#177; 0.190</td>
             <td>1st</td>
         </tr>
         <tr>
@@ -95,7 +95,7 @@ conda activate tdc
         <tr>
             <td>CYP2C9 Inhibition</td>
             <td>AUPRC</td>
-            <td>0.769 &#177; 0.0</td>
+            <td>0.769 &#177; 0.000</td>
             <td>3rd</td>
         </tr>
         <tr>
@@ -161,13 +161,13 @@ conda activate tdc
         <tr>
             <td>hERG</td>
             <td>AUROC</td>
-            <td>0.779 &#177; 0.01</td>
+            <td>0.779 &#177; 0.010</td>
             <td>4th</td>
         </tr>
         <tr>
             <td>Ames</td>
             <td>AUROC</td>
-            <td>0.859 &#177; 0.0</td>
+            <td>0.859 &#177; 0.000</td>
             <td>1st</td>
         </tr>
         <tr>
