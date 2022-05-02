@@ -32,7 +32,8 @@ params = {
     "subsample": [0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
     "colsample_bytree": [0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
     "reg_alpha": [0, 0.1, 1, 5, 10],
-    "reg_lambda": [0, 0.1, 1, 5, 10]
+    "reg_lambda": [0, 0.1, 1, 5, 10],
+    "min_child_weight": [1, 3, 5]
 }
 
 clf = RandomizedSearchCV(
