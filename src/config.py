@@ -40,4 +40,3 @@ config = {
     'ames': 'roc_auc',
     'dili': 'roc_auc'
 }
-c
