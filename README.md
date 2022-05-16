@@ -102,7 +102,7 @@ conda activate tdc
             <td>CYP2D6 Inhibition</td>
             <td>AUPRC</td>
             <td>0.721 &#177; 0.003</td>
-            <td>3rd</td>
+            <td>2nd</td>
         </tr>
         <tr>
             <td>CYP3A4 Inhibition</td>
