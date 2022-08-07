@@ -30,7 +30,7 @@ conda activate tdc
     </thead>
     <tbody>
         <tr>
-            <td colspan=3 style="text-align: center;">Absorption</td>
+            <td colspan=4 style="text-align: center;">Absorption</td>
         </tr>
         <tr>
             <td>Caco2</td>
@@ -69,7 +69,7 @@ conda activate tdc
             <td>1st</td>
         </tr>
         <tr>
-            <td colspan=3 style="text-align: center;">Distribution</td>
+            <td colspan=4 style="text-align: center;">Distribution</td>
         </tr>
         <tr>
             <td>BBB</td>
@@ -90,7 +90,7 @@ conda activate tdc
             <td>1st</td>
         </tr>
         <tr>
-            <td colspan=3 style="text-align: center;">Metabolism</td>
+            <td colspan=4 style="text-align: center;">Metabolism</td>
         </tr>
         <tr>
             <td>CYP2C9 Inhibition</td>
@@ -129,7 +129,7 @@ conda activate tdc
             <td>1st</td>
         </tr>
         <tr>
-            <td colspan=3 style="text-align: center;">Excretion</td>
+            <td colspan=4 style="text-align: center;">Excretion</td>
         </tr>
         <tr>
             <td>Half Life</td>
@@ -150,7 +150,7 @@ conda activate tdc
             <td>2nd</td>
         </tr>
         <tr>
-            <td colspan=3 style="text-align: center;">Toxicity</td>
+            <td colspan=4 style="text-align: center;">Toxicity</td>
         </tr>
         <tr>
             <td>LD50</td>
