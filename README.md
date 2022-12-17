@@ -1,7 +1,8 @@
 # Accurate ADMET Prediction with XGBoost
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org)
-[![LGTM](https://img.shields.io/lgtm/grade/python/github/smu-tao-group/ADMET_XGBoost.svg?style=square)](https://lgtm.com/projects/g/smu-tao-group/ADMET_XGBoost)
-[![DOI](http://img.shields.io/badge/DOI-arXiv:2204.07532-B31B1B.svg)](https://arxiv.org/abs/2204.07532)
+[![DOI:10.1007/s00894-022-05373-8](http://img.shields.io/badge/DOI-10.1007/s00894.022.05373.8-B31B1B.svg)](https://link.springer.com/article/10.1007/s00894-022-05373-8)
+
+If you find it useful, please cite: Tian, H., Ketkar, R. & Tao, P. ADMETboost: a web server for accurate ADMET prediction. *J Mol Model* **28**, 408 (2022). https://doi.org/10.1007/s00894-022-05373-8
 
 ## Installation
 
