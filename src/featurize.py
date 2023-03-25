@@ -45,6 +45,8 @@ for i in range(len(pubchem_train_val)):
         pubchem_train_val[i] = np.array([0] * 881)
     pubchem_train_val_tmp.append(pubchem_train_val[i].tolist())
 
+pubchem_train_val = np.array(pubchem_train_val_tmp)
+
 pubchem_test_tmp = []
 for i in range(len(pubchem_test)):
     if len(pubchem_test[i]) == 0:
